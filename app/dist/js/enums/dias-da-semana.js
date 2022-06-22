@@ -1,10 +1,10 @@
-export var DiaDaSemana;
-(function (DiaDaSemana) {
-    DiaDaSemana[DiaDaSemana["DOMINGO"] = 0] = "DOMINGO";
-    DiaDaSemana[DiaDaSemana["SEGUNDA"] = 1] = "SEGUNDA";
-    DiaDaSemana[DiaDaSemana["TERCA"] = 2] = "TERCA";
-    DiaDaSemana[DiaDaSemana["QUARTA"] = 3] = "QUARTA";
-    DiaDaSemana[DiaDaSemana["QUINTA"] = 4] = "QUINTA";
-    DiaDaSemana[DiaDaSemana["SEXTA"] = 5] = "SEXTA";
-    DiaDaSemana[DiaDaSemana["SABADO"] = 6] = "SABADO";
-})(DiaDaSemana || (DiaDaSemana = {}));
+export var DiasDaSemana;
+(function (DiasDaSemana) {
+    DiasDaSemana[DiasDaSemana["DOMINGO"] = 0] = "DOMINGO";
+    DiasDaSemana[DiasDaSemana["SEGUNDA"] = 1] = "SEGUNDA";
+    DiasDaSemana[DiasDaSemana["TERCA"] = 2] = "TERCA";
+    DiasDaSemana[DiasDaSemana["QUARTA"] = 3] = "QUARTA";
+    DiasDaSemana[DiasDaSemana["QUINTA"] = 4] = "QUINTA";
+    DiasDaSemana[DiasDaSemana["SEXTA"] = 5] = "SEXTA";
+    DiasDaSemana[DiasDaSemana["SABADO"] = 6] = "SABADO";
+})(DiasDaSemana || (DiasDaSemana = {}));

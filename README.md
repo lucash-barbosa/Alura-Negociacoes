@@ -4,7 +4,7 @@
 :book: Projeto criado durante os cursos de typescript Alura
 
 ## 📁 Acesso
-É possivel acessar o site <a href="https://alura-negociacoes-i45czilt0-lucaslkj.vercel.app/">aqui</a>
+É possivel acessar o site <a href="https://alura-negociacoes-64ajy17cn-lucaslkj.vercel.app/">aqui</a>
 ou <a href="https://github.com/lucash-barbosa/Alura-Negociacoes/archive/refs/heads/master.zip">baixar</a> os arquivos
 
 ## Como usar

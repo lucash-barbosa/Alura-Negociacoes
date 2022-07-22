@@ -1,10 +1,10 @@
 # Alura-Negociacoes
 ![Website](https://img.shields.io/website?down_color=lightgrey&style=flat-square&logo=appveyor&down_message=offline&label=STATUS&logo=STATUS&style=for-the-badge&up_message=FINALIZADO&url=https%3A%2F%2Fshields.io)
 
-:book: Projeto criado durante os cursos 
-TypeScript parte 1: evoluindo seu JavaScript
-TypeScript parte 2: avançando na linguagem
-Typescript parte 3: mais técnicas e boas práticas
+:book: Projeto criado durante os cursos \
+TypeScript parte 1: evoluindo seu JavaScript \
+TypeScript parte 2: avançando na linguagem \
+Typescript parte 3: mais técnicas e boas práticas \
 da Alura
 
 ## 📁 Acesso
